@@ -4,7 +4,9 @@ body{
 }
 
 section{
-    background-color: darkmagenta;
+    background-color: rgb(60, 84, 223);
     padding-top: 80px;
     padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
 }
